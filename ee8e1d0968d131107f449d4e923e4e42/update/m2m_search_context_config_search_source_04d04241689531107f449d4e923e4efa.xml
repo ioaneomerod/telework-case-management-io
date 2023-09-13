@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Telework Case Management IO - Workspace Search">c7b00e01e3953110e176c42b83844c7f</search_context_config>
+        <source display_value="Telework Case Management IO - x_snc_telework_c_0_t">35c0ce01689531107f449d4e923e4e0e</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-13 23:31:43</sys_created_on>
+        <sys_id>04d04241689531107f449d4e923e4efa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Case Management IO" source="x_snc_telework_c_0">ee8e1d0968d131107f449d4e923e4e42</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management IO">ee8e1d0968d131107f449d4e923e4e42</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_04d04241689531107f449d4e923e4efa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-13 23:31:43</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

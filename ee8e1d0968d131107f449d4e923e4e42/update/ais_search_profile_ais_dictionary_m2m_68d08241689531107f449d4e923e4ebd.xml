@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_snc_telework_c_0_telework_case_management_io_search_profile_default_spell_check_dictionary">60d08241689531107f449d4e923e4eae</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="telework-case-management-io Search Profile">0fb00e012d95311074f75883156244a0</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-13 23:31:46</sys_created_on>
+        <sys_id>68d08241689531107f449d4e923e4ebd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_telework_c_0_telework_case_management_io_search_profile_default_spell_check_dictionary.telework-case-management-io Search Profile</sys_name>
+        <sys_package display_value="Telework Case Management IO" source="x_snc_telework_c_0">ee8e1d0968d131107f449d4e923e4e42</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management IO">ee8e1d0968d131107f449d4e923e4e42</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_68d08241689531107f449d4e923e4ebd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-13 23:31:46</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

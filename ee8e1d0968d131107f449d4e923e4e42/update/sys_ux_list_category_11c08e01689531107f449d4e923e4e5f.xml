@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Telework Case Management IO_menu_config">19c08e01689531107f449d4e923e4e1e</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-13 23:31:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>11c08e01689531107f449d4e923e4e5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telework Case</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Telework Case Management IO" source="x_snc_telework_c_0">ee8e1d0968d131107f449d4e923e4e42</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management IO">ee8e1d0968d131107f449d4e923e4e42</sys_scope>
+        <sys_update_name>sys_ux_list_category_11c08e01689531107f449d4e923e4e5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-13 23:31:32</sys_updated_on>
+        <title>Telework Case</title>
+    </sys_ux_list_category>
+</record_update>

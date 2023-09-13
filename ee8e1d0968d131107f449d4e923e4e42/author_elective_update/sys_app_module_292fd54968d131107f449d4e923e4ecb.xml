@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Telework C 0 1694639069593</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_telework_c_0_1694639069593</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-13 21:04:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>292fd54968d131107f449d4e923e4ecb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telework C 0 1694639069593</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Telework Case Management IO" source="x_snc_telework_c_0">ee8e1d0968d131107f449d4e923e4e42</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management IO">ee8e1d0968d131107f449d4e923e4e42</sys_scope>
+        <sys_update_name>sys_app_module_292fd54968d131107f449d4e923e4ecb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-13 21:04:38</sys_updated_on>
+        <timeline_page/>
+        <title>Telework C 0 1694639069593</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Case Management IO">ee8e1d0968d131107f449d4e923e4e42</application>
+        <file_path/>
+        <instance_id>9c9d6e6cdb55b9102939285b139619e8</instance_id>
+        <instance_name>soc-sep-9088-006</instance_name>
+        <name>sys_app_module_292fd54968d131107f449d4e923e4ecb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Telework C 0 1694639069593</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_telework_c_0_1694639069593</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-13 21:04:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>292fd54968d131107f449d4e923e4ecb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Telework C 0 1694639069593</sys_name><sys_overrides/><sys_package display_value="Telework Case Management IO" source="x_snc_telework_c_0">ee8e1d0968d131107f449d4e923e4e42</sys_package><sys_policy/><sys_scope display_value="Telework Case Management IO">ee8e1d0968d131107f449d4e923e4e42</sys_scope><sys_update_name>sys_app_module_292fd54968d131107f449d4e923e4ecb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-13 21:04:38</sys_updated_on><timeline_page/><title>Telework C 0 1694639069593</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1878913496</payload_hash>
+        <record_name>Telework C 0 1694639069593</record_name>
+        <reverted_from/>
+        <source>fe8e1d0968d131107f449d4e923e4e44</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-13 21:04:39</sys_created_on>
+        <sys_id>692fd54968d131107f449d4e923e4ece</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a905c3eae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-13 21:04:39</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ad2fd549b2d13110625df4acc34da6cd</update_guid>
+        <update_guid_history>ad2fd549b2d13110625df4acc34da6cd:-1878913496</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Telework C 0 1694639069593">6e5f1d4968d131107f449d4e923e4edf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-13 21:05:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0c58546c328948988962ab2f6e9c5440</sys_id>
+        <sys_metadata>292fd54968d131107f449d4e923e4ecb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telework C 0 1694639069593</sys_name>
+        <sys_package display_value="Telework Case Management IO" source="x_snc_telework_c_0">ee8e1d0968d131107f449d4e923e4e42</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management IO">ee8e1d0968d131107f449d4e923e4e42</sys_scope>
+        <sys_scope_delete display_value="">12251420270545a58414bf48ff4129d9</sys_scope_delete>
+        <sys_update_name>sys_app_module_292fd54968d131107f449d4e923e4ecb</sys_update_name>
+        <sys_update_version display_value="sys_app_module_292fd54968d131107f449d4e923e4ecb">692fd54968d131107f449d4e923e4ece</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-13 21:05:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

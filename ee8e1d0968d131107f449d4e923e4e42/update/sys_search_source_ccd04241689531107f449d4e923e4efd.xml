@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_snc_telework_c_0_arrangement">active=true</condition>
+        <group/>
+        <name>Telework Case Management IO - x_snc_telework_c_0_a</name>
+        <roles/>
+        <source_table>x_snc_telework_c_0_arrangement</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-13 23:31:43</sys_created_on>
+        <sys_id>ccd04241689531107f449d4e923e4efd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telework Case Management IO - x_snc_telework_c_0_a</sys_name>
+        <sys_package display_value="Telework Case Management IO" source="x_snc_telework_c_0">ee8e1d0968d131107f449d4e923e4e42</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management IO">ee8e1d0968d131107f449d4e923e4e42</sys_scope>
+        <sys_update_name>sys_search_source_ccd04241689531107f449d4e923e4efd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-13 23:31:43</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=ccd04241689531107f449d4e923e4efd"/>
+</record_update>

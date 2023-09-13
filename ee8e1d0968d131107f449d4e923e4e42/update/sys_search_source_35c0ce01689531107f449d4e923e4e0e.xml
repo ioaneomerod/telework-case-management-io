@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_snc_telework_c_0_telework_case">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>Telework Case Management IO - x_snc_telework_c_0_t</name>
+        <roles/>
+        <source_table>x_snc_telework_c_0_telework_case</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-13 23:31:35</sys_created_on>
+        <sys_id>35c0ce01689531107f449d4e923e4e0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telework Case Management IO - x_snc_telework_c_0_t</sys_name>
+        <sys_package display_value="Telework Case Management IO" source="x_snc_telework_c_0">ee8e1d0968d131107f449d4e923e4e42</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Case Management IO">ee8e1d0968d131107f449d4e923e4e42</sys_scope>
+        <sys_update_name>sys_search_source_35c0ce01689531107f449d4e923e4e0e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-13 23:31:35</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=35c0ce01689531107f449d4e923e4e0e"/>
+</record_update>

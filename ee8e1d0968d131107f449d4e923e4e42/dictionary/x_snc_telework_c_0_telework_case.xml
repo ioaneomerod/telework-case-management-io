@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="5bcfd58968d131107f449d4e923e4e62" extends="task" label="Telework Case" max_length="40" name="x_snc_telework_c_0_telework_case" text_index="true" type="collection">
+        <element label="Arrangement" max_length="32" name="arrangement" reference="x_snc_telework_c_0_arrangement" type="reference"/>
+        <element label="Days per week" max_length="40" name="days_per_week" type="integer"/>
+        <element choice="1" label="Reason" max_length="40" name="reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Dependent Care" sequence="0" value="Dependent Care"/>
+                <element inactive_on_update="false" label="Medical" sequence="0" value="Medical"/>
+                <element inactive_on_update="false" label="Reasonable Accommodation" sequence="0" value="Reasonable Accommodation"/>
+            </choice>
+        </element>
+    </element>
+</database>

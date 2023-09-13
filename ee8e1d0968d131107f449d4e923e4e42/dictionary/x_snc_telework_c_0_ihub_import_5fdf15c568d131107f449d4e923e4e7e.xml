@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="db8029c968d131107f449d4e923e4ee9" extends="sys_import_set_row" label="Telework Case Data Mapping" max_length="40" name="x_snc_telework_c_0_ihub_import_5fdf15c568d131107f449d4e923e4e7e" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Arrangement" label="Arrangement" max_length="40" name="u_arrangement" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned to" label="Assigned to" max_length="40" name="u_assigned_to" type="string"/>
+        <element attributes="import_attribute_name=Days per week" label="Days per week" max_length="40" name="u_days_per_week" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Opened by" label="Opened by" max_length="40" name="u_opened_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Priority" label="Priority" max_length="40" name="u_priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Reason" label="Reason" max_length="40" name="u_reason" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="62" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+    </element>
+</database>
